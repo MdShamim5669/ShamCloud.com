@@ -1,0 +1,655 @@
+{
+  "users": [
+    {
+      "id": "user-1780860988583",
+      "name": "shamim",
+      "email": "tamjidulislamsamim@gmail.com",
+      "role": "SUPER_ADMIN",
+      "storageUsed": 22238231,
+      "storageLimit": 1099511627776,
+      "isVerified": true,
+      "isActive": true,
+      "createdAt": "2026-06-07T19:36:28.583Z"
+    }
+  ],
+  "media": [
+    {
+      "id": "media-imported-1780860908596-0",
+      "name": "Alps Camping Peak.jpg",
+      "type": "PHOTO",
+      "size": 2672122,
+      "fileUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=600&auto=format&fit=crop",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860886846",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T19:35:08.596Z"
+    },
+    {
+      "id": "media-imported-1780860908596-1",
+      "name": "Santorini Blue Sunset.jpg",
+      "type": "PHOTO",
+      "size": 2737859,
+      "fileUrl": "https://images.unsplash.com/photo-1533105079780-92b9be482077?q=80&w=600&auto=format&fit=crop",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860886846",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T19:35:08.596Z"
+    },
+    {
+      "id": "media-imported-1780860908596-2",
+      "name": "Kyoto Red Pagoda.jpg",
+      "type": "PHOTO",
+      "size": 2159565,
+      "fileUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=600&auto=format&fit=crop",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860886846",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T19:35:08.596Z"
+    },
+    {
+      "id": "media-imported-1780860908596-3",
+      "name": "Yosemite Sentinel Valley.jpg",
+      "type": "PHOTO",
+      "size": 2588581,
+      "fileUrl": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?q=80&w=600&auto=format&fit=crop",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860886846",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T19:35:08.596Z"
+    },
+    {
+      "id": "media-imported-1780860908596-4",
+      "name": "Golden Gate Horizon.jpg",
+      "type": "PHOTO",
+      "size": 2317680,
+      "fileUrl": "https://images.unsplash.com/photo-1506012787146-f92b2d7d6d96?q=80&w=600&auto=format&fit=crop",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860886846",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T19:35:08.596Z"
+    },
+    {
+      "id": "media-imported-1780860908596-5",
+      "name": "Cozy Morning Coffee.jpg",
+      "type": "PHOTO",
+      "size": 3018731,
+      "fileUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=600&auto=format&fit=crop",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860886846",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T19:35:08.596Z"
+    },
+    {
+      "id": "media-1780861034983",
+      "name": "declaration form.jpg",
+      "type": "PHOTO",
+      "size": 300666,
+      "fileUrl": "/uploads/1780861034981-declaration_form.jpg",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860988583",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T19:37:14.983Z"
+    },
+    {
+      "id": "media-1780861045490",
+      "name": "IMG_3071.JPG",
+      "type": "PHOTO",
+      "size": 2432522,
+      "fileUrl": "/uploads/1780861045479-IMG_3071.JPG",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860988583",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T19:37:25.490Z"
+    },
+    {
+      "id": "media-1780862196007",
+      "name": "IMG_3069.JPG",
+      "type": "PHOTO",
+      "size": 2685667,
+      "fileUrl": "/uploads/1780862195977-IMG_3069.JPG",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860988583",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T19:56:36.007Z"
+    },
+    {
+      "id": "media-imported-1780864323231-0",
+      "name": "Alps Camping Peak.jpg",
+      "type": "PHOTO",
+      "size": 2664301,
+      "fileUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=600&auto=format&fit=crop",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860988583",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T20:32:03.231Z"
+    },
+    {
+      "id": "media-imported-1780864323231-1",
+      "name": "Santorini Blue Sunset.jpg",
+      "type": "PHOTO",
+      "size": 3368409,
+      "fileUrl": "https://images.unsplash.com/photo-1533105079780-92b9be482077?q=80&w=600&auto=format&fit=crop",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860988583",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T20:32:03.231Z"
+    },
+    {
+      "id": "media-imported-1780864323231-2",
+      "name": "Kyoto Red Pagoda.jpg",
+      "type": "PHOTO",
+      "size": 3492802,
+      "fileUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=600&auto=format&fit=crop",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860988583",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T20:32:03.231Z"
+    },
+    {
+      "id": "media-imported-1780864323231-3",
+      "name": "Yosemite Sentinel Valley.jpg",
+      "type": "PHOTO",
+      "size": 3007873,
+      "fileUrl": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?q=80&w=600&auto=format&fit=crop",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860988583",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T20:32:03.231Z"
+    },
+    {
+      "id": "media-imported-1780864323231-4",
+      "name": "Golden Gate Horizon.jpg",
+      "type": "PHOTO",
+      "size": 2642708,
+      "fileUrl": "https://images.unsplash.com/photo-1506012787146-f92b2d7d6d96?q=80&w=600&auto=format&fit=crop",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860988583",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T20:32:03.231Z"
+    },
+    {
+      "id": "media-imported-1780864323231-5",
+      "name": "Cozy Morning Coffee.jpg",
+      "type": "PHOTO",
+      "size": 1643283,
+      "fileUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=600&auto=format&fit=crop",
+      "mimeType": "image/jpeg",
+      "userId": "user-1780860988583",
+      "isDeleted": false,
+      "createdAt": "2026-06-07T20:32:03.231Z"
+    }
+  ],
+  "albums": [
+    {
+      "id": "album-1780861085713",
+      "name": "Shamim",
+      "userId": "user-1780860988583",
+      "coverUrl": "/uploads/1780861045479-IMG_3071.JPG",
+      "createdAt": "2026-06-07T19:38:05.713Z",
+      "mediaIds": [
+        "media-1780861034983",
+        "media-1780861045490"
+      ]
+    },
+    {
+      "id": "album-1780861881047",
+      "name": "Riya",
+      "userId": "user-1780860988583",
+      "coverUrl": "/uploads/1780861000801-Gemini_Generated_Image_qmd2lqmd2lqmd2lq.png",
+      "createdAt": "2026-06-07T19:51:21.047Z",
+      "mediaIds": []
+    }
+  ],
+  "payments": [
+    {
+      "id": "pay-1780946306005",
+      "userId": "user-1780860988583",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "planName": "Premium Ultimate Archive",
+      "amount": 12.99,
+      "status": "SUCCESS",
+      "date": "2026-06-08T19:18:26.005Z"
+    },
+    {
+      "id": "pay-1780862039357",
+      "userId": "user-1780860988583",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "planName": "Premium Ultimate Archive",
+      "amount": 12.99,
+      "status": "SUCCESS",
+      "date": "2026-06-07T19:53:59.357Z"
+    },
+    {
+      "id": "pay-1780860915556",
+      "userId": "user-1780860886846",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "planName": "Premium Ultimate Archive",
+      "amount": 12.99,
+      "status": "SUCCESS",
+      "date": "2026-06-07T19:35:15.556Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1781818649801",
+      "action": "MEDIA_PERMANENTLY_DELETED",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "SUPER_ADMIN",
+      "details": "Permanently deleted file 'Gemini_Generated_Image_qmd2lqmd2lqmd2lq.png' and reclaimed visual disk space.",
+      "date": "2026-06-18T21:37:29.801Z"
+    },
+    {
+      "id": "log-1781818626585",
+      "action": "USER_LOGIN",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "SUPER_ADMIN",
+      "details": "User signed in successfully under role: SUPER_ADMIN.",
+      "date": "2026-06-18T21:37:06.585Z"
+    },
+    {
+      "id": "log-1780946529542",
+      "action": "MEDIA_TRASHED",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "PREMIUM_USER",
+      "details": "Moved file 'Gemini_Generated_Image_qmd2lqmd2lqmd2lq.png' to trash storage.",
+      "date": "2026-06-08T19:22:09.542Z"
+    },
+    {
+      "id": "log-1780946306005",
+      "action": "PREMIUM_UPGRADE_PAYMENT",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "PREMIUM_USER",
+      "details": "Upgraded to Premium plan successfully! Reclaimed 1 TB of lifetime memory storage.",
+      "date": "2026-06-08T19:18:26.005Z"
+    },
+    {
+      "id": "log-1780946261986",
+      "action": "USERS_BULK_PURGED",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "SUPER_ADMIN",
+      "details": "Executed bulk role-based purge of all 1 users possessing the role 'USER'.",
+      "date": "2026-06-08T19:17:41.986Z"
+    },
+    {
+      "id": "log-1780946240451",
+      "action": "USER_ROLE_PROMOTION",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "SUPER_ADMIN",
+      "details": "Changed role of user 'superadmin@shamcloud.com' from 'ADMIN' to 'USER'.",
+      "date": "2026-06-08T19:17:20.451Z"
+    },
+    {
+      "id": "log-1780946229827",
+      "action": "USER_ROLE_PROMOTION",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "SUPER_ADMIN",
+      "details": "Changed role of user 'superadmin@shamcloud.com' from 'USER' to 'ADMIN'.",
+      "date": "2026-06-08T19:17:09.827Z"
+    },
+    {
+      "id": "log-1780946223483",
+      "action": "USER_ROLE_PROMOTION",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "SUPER_ADMIN",
+      "details": "Changed role of user 'superadmin@shamcloud.com' from 'ADMIN' to 'USER'.",
+      "date": "2026-06-08T19:17:03.483Z"
+    },
+    {
+      "id": "log-1780946212875",
+      "action": "USER_DELETED",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "SUPER_ADMIN",
+      "details": "Purged and deleted user account 'admin@shamcloud.com' (Name: Adiba, Role: ADMIN) along with 0 associated cloud assets.",
+      "date": "2026-06-08T19:16:52.875Z"
+    },
+    {
+      "id": "log-1780946182637",
+      "action": "USER_LOGIN",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "SUPER_ADMIN",
+      "details": "User signed in successfully under role: SUPER_ADMIN.",
+      "date": "2026-06-08T19:16:22.637Z"
+    },
+    {
+      "id": "log-1780944995604",
+      "action": "USER_DELETED",
+      "userEmail": "superadmin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Purged and deleted user account 'user@shamcloud.com' (Name: John Doe, Role: USER) along with 4 associated cloud assets.",
+      "date": "2026-06-08T18:56:35.604Z"
+    },
+    {
+      "id": "log-1780944991172",
+      "action": "USER_DELETED",
+      "userEmail": "superadmin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Purged and deleted user account 'premium@shamcloud.com' (Name: Sarah Jenkins, Role: USER) along with 3 associated cloud assets.",
+      "date": "2026-06-08T18:56:31.172Z"
+    },
+    {
+      "id": "log-1780944092470",
+      "action": "USER_ACCOUNT_SUSPENDED",
+      "userEmail": "superadmin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Suspended access for digital archive of user 'premium@shamcloud.com'.",
+      "date": "2026-06-08T18:41:32.470Z"
+    },
+    {
+      "id": "log-1780944090716",
+      "action": "USER_ACCOUNT_REACTIVATED",
+      "userEmail": "superadmin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Reactivated ShamCloud account for user 'premium@shamcloud.com'.",
+      "date": "2026-06-08T18:41:30.716Z"
+    },
+    {
+      "id": "log-1780943758465",
+      "action": "USER_LOGIN",
+      "userEmail": "superadmin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "User signed in successfully under role: ADMIN.",
+      "date": "2026-06-08T18:35:58.465Z"
+    },
+    {
+      "id": "log-1780943693032",
+      "action": "USER_LOGIN",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "SUPER_ADMIN",
+      "details": "User signed in successfully under role: SUPER_ADMIN.",
+      "date": "2026-06-08T18:34:53.032Z"
+    },
+    {
+      "id": "log-1780943640025",
+      "action": "USER_ACCOUNT_SUSPENDED",
+      "userEmail": "superadmin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Suspended access for digital archive of user 'user@shamcloud.com'.",
+      "date": "2026-06-08T18:34:00.025Z"
+    },
+    {
+      "id": "log-1780943637690",
+      "action": "USER_ACCOUNT_SUSPENDED",
+      "userEmail": "superadmin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Suspended access for digital archive of user 'premium@shamcloud.com'.",
+      "date": "2026-06-08T18:33:57.690Z"
+    },
+    {
+      "id": "log-1780943621056",
+      "action": "USER_ROLE_PROMOTION",
+      "userEmail": "superadmin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Changed role of user 'premium@shamcloud.com' from 'PREMIUM_USER' to 'USER'.",
+      "date": "2026-06-08T18:33:41.056Z"
+    },
+    {
+      "id": "log-1780943600921",
+      "action": "USER_LOGIN",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "SUPER_ADMIN",
+      "details": "User signed in successfully under role: SUPER_ADMIN.",
+      "date": "2026-06-08T18:33:20.921Z"
+    },
+    {
+      "id": "log-1780943151587",
+      "action": "ALBUM_CREATE",
+      "userEmail": "superadmin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Created new album folder named 'Shamim'.",
+      "date": "2026-06-08T18:25:51.587Z"
+    },
+    {
+      "id": "log-1780943092551",
+      "action": "MEDIA_UPLOAD",
+      "userEmail": "superadmin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Digitized and saved 'photo_2026-06-08_03-14-28.jpg' (0.20 MB) to Cloud storage.",
+      "date": "2026-06-08T18:24:52.551Z"
+    },
+    {
+      "id": "log-1780864974773",
+      "action": "USER_LOGIN",
+      "userEmail": "superadmin@shamcloud.com",
+      "role": "USER",
+      "details": "User signed in successfully under role: USER.",
+      "date": "2026-06-07T20:42:54.773Z"
+    },
+    {
+      "id": "log-1780864829988",
+      "action": "USER_ROLE_PROMOTION",
+      "userEmail": "admin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Changed role of user 'superadmin@shamcloud.com' from 'ADMIN' to 'USER'.",
+      "date": "2026-06-07T20:40:29.988Z"
+    },
+    {
+      "id": "log-1780864821504",
+      "action": "USER_ROLE_PROMOTION",
+      "userEmail": "admin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Changed role of user 'tamjidulislamsamim@gmail.com' from 'PREMIUM_USER' to 'ADMIN'.",
+      "date": "2026-06-07T20:40:21.504Z"
+    },
+    {
+      "id": "log-1780864812775",
+      "action": "USER_ROLE_PROMOTION",
+      "userEmail": "admin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Changed role of user 'superadmin@shamcloud.com' from 'SUPER_ADMIN' to 'ADMIN'.",
+      "date": "2026-06-07T20:40:12.775Z"
+    },
+    {
+      "id": "log-1780864799413",
+      "action": "USER_ACCOUNT_SUSPENDED",
+      "userEmail": "admin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Suspended access for digital archive of user 'premium@shamcloud.com'.",
+      "date": "2026-06-07T20:39:59.413Z"
+    },
+    {
+      "id": "log-1780864792884",
+      "action": "USER_ACCOUNT_SUSPENDED",
+      "userEmail": "admin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Suspended access for digital archive of user 'user@shamcloud.com'.",
+      "date": "2026-06-07T20:39:52.884Z"
+    },
+    {
+      "id": "log-1780864643149",
+      "action": "USER_LOGIN",
+      "userEmail": "admin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "User signed in successfully under role: ADMIN.",
+      "date": "2026-06-07T20:37:23.149Z"
+    },
+    {
+      "id": "log-1780864323231",
+      "action": "GOOGLE_PHOTOS_IMPORT",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "PREMIUM_USER",
+      "details": "Imported 6 files from Google Photos seamlessly.",
+      "date": "2026-06-07T20:32:03.231Z"
+    },
+    {
+      "id": "log-1780862196007",
+      "action": "MEDIA_UPLOAD",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "PREMIUM_USER",
+      "details": "Digitized and saved 'IMG_3069.JPG' (2.56 MB) to Cloud storage.",
+      "date": "2026-06-07T19:56:36.007Z"
+    },
+    {
+      "id": "log-1780862039357",
+      "action": "PREMIUM_UPGRADE_PAYMENT",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "PREMIUM_USER",
+      "details": "Upgraded to Premium plan successfully! Reclaimed 1 TB of lifetime memory storage.",
+      "date": "2026-06-07T19:53:59.357Z"
+    },
+    {
+      "id": "log-1780861881047",
+      "action": "ALBUM_CREATE",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Created new album folder named 'Riya'.",
+      "date": "2026-06-07T19:51:21.047Z"
+    },
+    {
+      "id": "log-1780861481748",
+      "action": "MEDIA_RESTORED",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Restored file 'IMG_3071.JPG' back to gallery storage.",
+      "date": "2026-06-07T19:44:41.748Z"
+    },
+    {
+      "id": "log-1780861478114",
+      "action": "MEDIA_TRASHED",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Moved file 'IMG_3071.JPG' to trash storage.",
+      "date": "2026-06-07T19:44:38.114Z"
+    },
+    {
+      "id": "log-1780861247647",
+      "action": "MEDIA_RESTORED",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Restored file 'declaration form.jpg' back to gallery storage.",
+      "date": "2026-06-07T19:40:47.647Z"
+    },
+    {
+      "id": "log-1780861237345",
+      "action": "MEDIA_TRASHED",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Moved file 'declaration form.jpg' to trash storage.",
+      "date": "2026-06-07T19:40:37.345Z"
+    },
+    {
+      "id": "log-1780861085713",
+      "action": "ALBUM_CREATE",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Created new album folder named 'Shamim'.",
+      "date": "2026-06-07T19:38:05.713Z"
+    },
+    {
+      "id": "log-1780861045490",
+      "action": "MEDIA_UPLOAD",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Digitized and saved 'IMG_3071.JPG' (2.32 MB) to Cloud storage.",
+      "date": "2026-06-07T19:37:25.490Z"
+    },
+    {
+      "id": "log-1780861034983",
+      "action": "MEDIA_UPLOAD",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Digitized and saved 'declaration form.jpg' (0.29 MB) to Cloud storage.",
+      "date": "2026-06-07T19:37:14.983Z"
+    },
+    {
+      "id": "log-1780861013001",
+      "action": "MEDIA_RESTORED",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Restored file 'Gemini_Generated_Image_qmd2lqmd2lqmd2lq.png' back to gallery storage.",
+      "date": "2026-06-07T19:36:53.001Z"
+    },
+    {
+      "id": "log-1780861009342",
+      "action": "MEDIA_TRASHED",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Moved file 'Gemini_Generated_Image_qmd2lqmd2lqmd2lq.png' to trash storage.",
+      "date": "2026-06-07T19:36:49.342Z"
+    },
+    {
+      "id": "log-1780861000846",
+      "action": "MEDIA_UPLOAD",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Digitized and saved 'Gemini_Generated_Image_qmd2lqmd2lqmd2lq.png' (6.17 MB) to Cloud storage.",
+      "date": "2026-06-07T19:36:40.846Z"
+    },
+    {
+      "id": "log-1780860988583",
+      "action": "USER_SIGN_UP",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "samim registered a new account on ShamCloud.",
+      "date": "2026-06-07T19:36:28.583Z"
+    },
+    {
+      "id": "log-1780860915556",
+      "action": "PREMIUM_UPGRADE_PAYMENT",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "PREMIUM_USER",
+      "details": "Upgraded to Premium plan successfully! Reclaimed 1 TB of lifetime memory storage.",
+      "date": "2026-06-07T19:35:15.556Z"
+    },
+    {
+      "id": "log-1780860908596",
+      "action": "GOOGLE_PHOTOS_IMPORT",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Imported 6 files from Google Photos seamlessly.",
+      "date": "2026-06-07T19:35:08.596Z"
+    },
+    {
+      "id": "log-1780860886846",
+      "action": "USER_SIGN_UP",
+      "userEmail": "tamjidulislamsamim@gmail.com",
+      "role": "USER",
+      "details": "Md Samim registered a new account on ShamCloud.",
+      "date": "2026-06-07T19:34:46.846Z"
+    },
+    {
+      "id": "log-1",
+      "action": "USER_SIGN_UP",
+      "userEmail": "user@shamcloud.com",
+      "role": "USER",
+      "details": "New account registered successfully with Free plan (5 GB Storage).",
+      "date": "2026-05-08T19:31:39.469Z"
+    },
+    {
+      "id": "log-2",
+      "action": "USER_SIGN_UP",
+      "userEmail": "premium@shamcloud.com",
+      "role": "PREMIUM_USER",
+      "details": "New account registered and instantly upgraded to Premium Plan (1 TB Storage).",
+      "date": "2026-04-08T19:31:39.469Z"
+    },
+    {
+      "id": "log-3",
+      "action": "MEDIA_UPLOAD",
+      "userEmail": "user@shamcloud.com",
+      "role": "USER",
+      "details": "Uploaded 'Emerald Lake Sunrise.jpg' (2.45 MB) to digital vault.",
+      "date": "2026-05-23T19:31:39.469Z"
+    },
+    {
+      "id": "log-4",
+      "action": "ALBUM_CREATE",
+      "userEmail": "user@shamcloud.com",
+      "role": "USER",
+      "details": "Created new album 'Adventures & Nature' and organized 2 files into it.",
+      "date": "2026-05-24T19:31:39.469Z"
+    },
+    {
+      "id": "log-5",
+      "action": "USER_SUSPENSION_REVOKED",
+      "userEmail": "admin@shamcloud.com",
+      "role": "ADMIN",
+      "details": "Admin checked platform analytics and verified node connection.",
+      "date": "2026-06-06T19:31:39.469Z"
+    }
+  ],
+  "priceSettings": {
+    "basePrice": 1500,
+    "offerPrice": null,
+    "customOfferText": ""
+  }
+}
